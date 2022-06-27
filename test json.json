@@ -1,0 +1,6 @@
+{
+    "object": {
+        "this_is_a_test": true
+    },
+    "array": ["This is a test", "and it'll always be a test"]
+}
